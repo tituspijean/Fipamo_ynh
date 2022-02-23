@@ -13,7 +13,6 @@
         "website": "https://fipamo.blog",
         "demo": "https://demo.example.com",
         "admindoc": "https://yunohost.org/packaging_apps",
-        "userdoc": "https://yunohost.org/apps",
         "code": "https://code.playvicio.us/Are0h/Fipamo"
     },
     "license": "free",
