@@ -4,8 +4,10 @@
 # COMMON VARIABLES
 #=================================================
 
-# dependencies used by the app
-pkg_dependencies="deb1 deb2 php$YNH_DEFAULT_PHP_VERSION-deb1 php$YNH_DEFAULT_PHP_VERSION-deb2"
+YNH_PHP_VERSION="8.0"
+
+# Composer version
+YNH_COMPOSER_VERSION="2.1.3"
 
 #=================================================
 # PERSONAL HELPERS
